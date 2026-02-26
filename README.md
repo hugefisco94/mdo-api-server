@@ -1,6 +1,10 @@
 # MDO Command Center — Backend API
 
+[![Run on Replit](https://replit.com/badge/github/hugefisco94/mdo-api-server)](https://replit.com/github/hugefisco94/mdo-api-server)
+
 Multi-Domain Operations (MDO) AI Orchestration Backend with OODA Loop State Machine.
+
+**Frontend**: [hugefisco94.github.io/ai-orchestration-hub](https://hugefisco94.github.io/ai-orchestration-hub/)
 
 ## Architecture
 
