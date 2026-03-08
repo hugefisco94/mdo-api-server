@@ -1,3 +1,5 @@
+> **DEPRECATED** — This repository has been consolidated into [mdo-nexus-ooda](https://github.com/hugefisco94/mdo-nexus-ooda). No further updates here.
+
 # MDO Command Center — Backend API
 
 [![Run on Replit](https://replit.com/badge/github/hugefisco94/mdo-api-server)](https://replit.com/github/hugefisco94/mdo-api-server)
